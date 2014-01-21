@@ -1,0 +1,1020 @@
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:35) [AWT-EventQueue-0]
+准备发送数据
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:48) [AWT-EventQueue-0]
+发送数据
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:62) [AWT-EventQueue-0]
+接收到的数据:<!DOCTYPE html><!--STATUS OK--><html><head><meta http-equiv="content-type" content="text/html;charset=utf-8"><link rel="dns-prefetch" href="//s1.bdstatic.com"/><link rel="dns-prefetch" href="//t1.baidu.com"/><link rel="dns-prefetch" href="//t2.baidu.com"/><link rel="dns-prefetch" href="//t3.baidu.com"/><link rel="dns-prefetch" href="//t10.baidu.com"/><link rel="dns-prefetch" href="//t11.baidu.com"/><link rel="dns-prefetch" href="//t12.baidu.com"/><link rel="dns-prefetch" href="//b1.bdstatic.com"/><title>百度一下，你就知道</title><style >html,body{height:100%}html{overflow-y:auto}#wrapper{position:relative;_position:;min-height:100%}#content{padding-bottom:100px;text-align:center}#ftCon{height:100px;position:absolute;bottom:44px;text-align:center;width:100%;margin:0 auto;z-index:0;overflow:hidden}#ftConw{width:720px;margin:0 auto}body{font:12px arial;text-align:;background:#fff}body,p,form,ul,li{margin:0;padding:0;list-style:none}body,form,#fm{position:relative}td{text-align:left}img{border:0}a{color:#00c}a:active{color:#f60}.bg{background-image:url(http://s1.bdstatic.com/r/www/cache/static/global/img/icons_ac721b79.png);background-repeat:no-repeat;_background-image:url(http://s1.bdstatic.com/r/www/cache/static/global/img/icons_29dd1ff2.gif)}.c-icon{display:inline-block;width:14px;height:14px;vertical-align:text-bottom;font-style normal;overflow:hidden;background:url(http://s1.bdstatic.com/r/www/cache/static/global/img/icons_ac721b79.png) no-repeat 0 0;_background-image:url(http://s1.bdstatic.com/r/www/cache/static/global/img/icons_29dd1ff2.gif)}.c-icon-triangle-down-blue{background-position:-480px -24px}.c-icon-chevron-unfold2{background-position:-504px -24px}#u{color:#999;padding:4px 10px 5px 0;text-align:right}#u a{margin:0 5px}#u .reg{margin:0}#m{width:720px;margin:0 auto}#nv a,#nv b,.btn,#lk{font-size:14px}#fm{padding-left:110px;text-align:left;z-index:1}input{border:0;padding:0}#nv{height:19px;font-size:16px;margin:0 0 4px;text-align:left;text-indent:137px}.s_ipt_wr{width:418px;height:30px;display:inline-block;margin-right:5px;background-position:0 -288px;border:1px solid #b6b6b6;border-color:#9a9a9a #cdcdcd #cdcdcd #9a9a9a;vertical-align:top}.s_ipt{width:405px;height:22px;font:16px/22px arial;margin:5px 0 0 7px;background:#fff;outline:0;-webkit-appearance:none}.s_btn{width:95px;height:32px;padding-top:2px\9;font-size:14px;background-color:#ddd;background-position:0 -240px;cursor:pointer}.s_btn_h{background-position:-240px -240px}.s_btn_wr{width:97px;height:34px;display:inline-block;background-position:-120px -240px;*position:relative;z-index:0;vertical-align:top}#lg img{vertical-align:top;margin-bottom:3px}#lk{margin:33px 0}#lk span{font:14px "宋体"}#lm{height:60px;line-height:15px}#lh{margin:16px 0 5px;word-spacing:3px}.tools{position:absolute;top:-4px;*top:10px;right:7px}#mHolder{width:62px;position:relative;z-index:296;display:none}#mCon{height:18px;line-height:18px;position:absolute;cursor:pointer}#mCon span{color:#00c;cursor:default;display:block}#mCon .hw{text-decoration:underline;cursor:pointer;display:inline-block}#mCon .pinyin{display:inline-block}#mCon .c-icon-chevron-unfold2{margin-left:5px}#mMenu a{width:100%;height:100%;display:block;line-height:22px;text-indent:6px;text-decoration:none;filter:none\9}#mMenu,#user ul{box-shadow:1px 1px 2px #ccc;-moz-box-shadow:1px 1px 2px #ccc;-webkit-box-shadow:1px 1px 2px #ccc;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=2,Direction=135,Color="#cccccc")\9}#mMenu{width:56px;border:1px solid #9b9b9b;list-style:none;position:absolute;right:27px;top:28px;display:none;background:#fff}#mMenu a:hover{background:#ebebeb}#mMenu .ln{height:1px;background:#ebebeb;overflow:hidden;font-size:1px;line-height:1px;margin-top:-1px}#cp,#cp a{color:#666}#seth{display:none;behavior:url(#default#homepage)}#setf{display:none}#sekj{margin-left:14px}#shouji{margin-right:14px}</style><script >function h(obj){obj.style.behavior='url(#default#homepage)';var a = obj.setHomePage('http://www.baidu.com/');}</script></head><body><div id="wrapper"><div id="content"><div id="u"><a href="http://www.baidu.com/gaoji/preferences.html" name="tj_setting">搜索设置</a>|<a href="https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F" name="tj_login" id="lb" onclick="return false;">登录</a><a href="https://passport.baidu.com/v2/?reg&regType=1&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F" target="_blank" name="tj_reg" class="reg">注册</a></div><div id="m"><p id="lg"><img src="http://www.baidu.com/img/bdlogo.gif" width="270" height="129"></p><p id="nv"><a href="http://news.baidu.com">新&nbsp;闻</a>　<b>网&nbsp;页</b>　<a href="http://tieba.baidu.com">贴&nbsp;吧</a>　<a href="http://zhidao.baidu.com">知&nbsp;道</a>　<a href="http://music.baidu.com">音&nbsp;乐</a>　<a href="http://image.baidu.com">图&nbsp;片</a>　<a href="http://v.baidu.com">视&nbsp;频</a>　<a href="http://map.baidu.com">地&nbsp;图</a></p><div id="fm"><form name="f" action="/s"><span class="bg s_ipt_wr"><input type="text" name="wd" id="kw" maxlength="100" class="s_ipt"></span><input type="hidden" name="rsv_bp" value="0"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><input type="hidden" name="rsv_spt" value="3"><input type="hidden" name="ie" value="utf-8"><span class="bg s_btn_wr"><input type="submit" value="百度一下" id="su" class="bg s_btn" onmousedown="this.className='bg s_btn s_btn_h'" onmouseout="this.className='bg s_btn'"></span></form><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法</span></div></span></span><ul id="mMenu"><li><a href="#" name="ime_hw">手写</a></li><li><a href="#" name="ime_py">拼音</a></li><li class="ln"></li><li><a href="#" name="ime_cl">关闭</a></li></ul></div><p id="lk"><a href="http://baike.baidu.com">百科</a>　<a href="http://wenku.baidu.com">文库</a>　<a href="http://www.hao123.com">hao123</a><span>&nbsp;|&nbsp;<a href="http://www.baidu.com/more/">更多&gt;&gt;</a></span></p><p id="lm"><a href="http://shadu.baidu.com/index/minidownload/10055" style="visibility:hidden;font-family: 宋体,Arial,Helvetica,sans-serif;background-image:url('http://s1.bdstatic.com/r/www/cache/global/img/baidusd.png');background-repeat:no-repeat;padding:2px 0 2px 23px;" data-linkid="3">让上网更安全，立即下载百度杀毒</a></p></div></div><div id="ftCon"><div id="ftConw"><p ><a id="seth" onClick="h(this)" href="/" onmousedown="return ns_c({'fm':'behs','tab':'homepage','pos':0})">把百度设为主页</a><a id="setf" href="http://www.baidu.com/cache/sethelp/index.html" onmousedown="return ns_c({'fm':'behs','tab':'favorites','pos':0})" target="_blank">把百度设为主页</a><span id="sekj"><a href="http://anquan.baidu.com/?wenzilian" target="_blank" onmousedown="return ns_c({'fm':'behs','tab':'bdbrwlk','pos':1})">安装百度卫士</a></span></p><p id="lh"><a href="http://e.baidu.com/?refer=888" onmousedown="return ns_c({'fm':'behs','tab':'btlink','pos':2})">加入百度推广</a>&nbsp;|&nbsp;<a onmousedown="return ns_c({'fm':'behs','tab':'tj_bang'})" href="http://top.baidu.com">搜索风云榜</a>&nbsp;|&nbsp;<a onmousedown="return ns_c({'fm':'behs','tab':'tj_about'})" href="http://home.baidu.com">关于百度</a>&nbsp;|&nbsp;<a onmousedown="return ns_c({'fm':'behs','tab':'tj_about_en'})" href="http://ir.baidu.com">About Baidu</a></p><p id="cp">&copy;2013&nbsp;Baidu&nbsp;<a href="/duty/" name="tj_duty">使用百度前必读</a>&nbsp;京ICP证030173号&nbsp;<img src="http://www.baidu.com/cache/global/img/gs.gif"></p></div></div></div></body><script>var bds={se:{},comm : {ishome : 1,sid : "3630_4381_1421_4261_4451_4587",user : "",username : "",sugHost : "http://suggestion.baidu.com/su",loginAction : []}}</script><script type="text/javascript" src="http://s1.bdstatic.com/r/www/cache/static/global/js/home_72df6c19.js" charset="utf-8"></script><script>var bdUser = null;var w=window,d=document,n=navigator,k=d.f.wd,a=d.getElementById("nv").getElementsByTagName("a"),isIE=n.userAgent.indexOf("MSIE")!=-1&&!window.opera;(function(){if(/q=([^&]+)/.test(location.search)){k.value=decodeURIComponent(RegExp["\x241"])}})();if(n.cookieEnabled){bds.se.sug();};function addEV(o, e, f){if(w.attachEvent){o.attachEvent("on" + e, f);}else if(w.addEventListener){ o.addEventListener(e, f, false);}}function G(id){return d.getElementById(id);}function ns_c(q){var p = encodeURIComponent(window.document.location.href), sQ = '', sV = '', mu='', img = window["BD_PS_C" + (new Date()).getTime()] = new Image();for (v in q) {sV = q[v];sQ += v + "=" + sV + "&";} mu= "&mu=" + p ;img.src = "http://nsclick.baidu.com/v.gif?pid=201&pj=www&rsv_sid=3630_4381_1421_4261_4451_4587&" + sQ + "path="+p+"&t="+new Date().getTime();return true;}if(/\bbdime=[12]/.test(d.cookie)){document.write('<script src="' + "http://s1.bdstatic.com/r/www/cache/static/ime/js/openime_ceac1c4e.js" + '" charset="utf-8"><\/script>');}(function(){var u = G("u").getElementsByTagName("a"), nv = G("nv").getElementsByTagName("a"), lk = G("lk").getElementsByTagName("a"), un = "";var tj_nv = ["news","tieba","zhidao","mp3","img","video","map"];var tj_lk = ["baike","wenku","hao123","more"];un = bds.comm.user == "" ? "" : bds.comm.user;function _addTJ(obj){addEV(obj, "mousedown", function(e){var e = e || window.event;var target = e.target || e.srcElement;ns_c({'fm':'behs','tab':target.name||'tj_user','un':encodeURIComponent(un)});});}for(var i = 0; i < u.length; i++){_addTJ(u[i]);}for(var i = 0; i < nv.length; i++){nv[i].name = 'tj_' + tj_nv[i];}for(var i = 0; i < lk.length; i++){lk[i].name = 'tj_' + tj_lk[i];}})();(function() {var links = {'tj_news': ['word', 'http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&ie=utf-8'],'tj_tieba': ['kw', 'http://tieba.baidu.com/f?ie=utf-8'],'tj_zhidao': ['word', 'http://zhidao.baidu.com/search?pn=0&rn=10&lm=0'],'tj_mp3': ['key', 'http://music.baidu.com/search?fr=ps&ie=utf-8'],'tj_img': ['word', 'http://image.baidu.com/i?ct=201326592&cl=2&nc=1&lm=-1&st=-1&tn=baiduimage&istype=2&fm=&pv=&z=0&ie=utf-8'],'tj_video': ['word', 'http://video.baidu.com/v?ct=301989888&s=25&ie=utf-8'],'tj_map': ['wd', 'http://map.baidu.com/?newmap=1&ie=utf-8&s=s'],'tj_baike': ['word', 'http://baike.baidu.com/search/word?pic=1&sug=1&enc=utf8'],'tj_wenku': ['word', 'http://wenku.baidu.com/search?ie=utf-8']};var domArr = [G('nv'), G('lk'),G('cp')],kw = G('kw');for (var i = 0, l = domArr.length; i < l; i++) {domArr[i].onmousedown = function(e) {e = e || window.event;var target = e.target || e.srcElement,name = target.getAttribute('name'),items = links[name],reg = new RegExp('^\\s+|\\s+\x24'),key = kw.value.replace(reg, '');if (items) {if (key.length > 0) {var wd = items[0], url = items[1],url = url + ( name === 'tj_map' ? encodeURIComponent('&' + wd + '=' + key) : ( ( url.indexOf('?') > 0 ? '&' : '?' ) + wd + '=' + encodeURIComponent(key) ) );target.href = url;} else {target.href = target.href.match(new RegExp('^http:\/\/.+\.baidu\.com'))[0];}}name && ns_c({'fm': 'behs','tab': name,'query': encodeURIComponent(key),'un': encodeURIComponent(bds.comm.user || '') });};}})();addEV(w,"load",function(){k.focus()});w.onunload=function(){};</script><script type="text/javascript" src="http://s1.bdstatic.com/r/www/cache/static/global/js/tangram-1.3.4c1.0_07038476.js"></script><script type="text/javascript" src="http://s1.bdstatic.com/r/www/cache/static/user/js/u_3c3a904e.js" charset="utf-8"></script><script>try{document.cookie="WWW_ST=;expires=Sat, 01 Jan 2000 00:00:00 GMT";baidu.on(document.forms[0],"submit",function(){var _t=new Date().getTime();document.cookie = "WWW_ST=" + _t +";expires=" + new Date(_t + 10000).toGMTString()})}catch(e){}</script><script>(function(){var img = new Image();img.src = window['_WWW_IMG_B64_DNS'] = "http://b1.bdstatic.com/img/gs.gif";})();</script><style>.c-btn,.c-btn:visited{color:#333 !important}.c-btn{display:inline-block;padding:0 14px;margin:0;height:24px;line-height:24px;font-size:13px;font-family:inherit;font-weight:normal;text-align:center;vertical-align:middle;filter:chroma(color=#000000);overflow:visible;*zoom:1;background-color:#f9f9f9;border:1px solid #d8d8d8;cursor:pointer}.c-btn:hover{border-color:#388bff}.c-btn:active{border-color:#a2a6ab;background-color:#f0f0f0;box-shadow:inset 1px 1px 1px #c7c7c7;-webkit-box-shadow:inset 1px 1px 1px #c7c7c7;-moz-box-shadow:inset 1px 1px 1px #c7c7c7;-o-box-shadow:inset 1px 1px 1px #c7c7c7}a.c-btn{text-decoration:none}button.c-btn{height:26px;_height:26px;_line-height:18px}button.c-btn::-moz-focus-inner{padding:0;border:0}.c-btn .c-icon{margin-top:5px}.c-btn-disable{color:#999 !important}.c-btn-disable:visited{color:#999 !important}.c-btn-disable:hover{border:1px solid #d8d8d8;cursor:pointer;cursor:default}.c-btn-disable:active{border-color:#d8d8d8;background-color:#f9f9f9;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;-o-box-shadow:none}.c-btn-mini{padding-left:5px;padding-right:5px;height:18px;line-height:18px;font-size:12px}button.c-btn-mini{height:20px;_line-height:14px}.c-btn-mini .c-icon{margin-top:2px}.c-btn-large{height:28px;line-height:28px;font-size:14px;font-family:"微软雅黑","黑体"}button.c-btn-large{height:30px;_line-height:24px}.c-btn-large .c-icon{margin-top:7px;_margin-top:6px}.c-btn-primary,.c-btn-primary:visited{color:#fff !important}.c-btn-primary{background-color:#388bff;border-color:#3c8dff #408ffe #3680e6}.c-btn-primary:hover{border-color:#2678ec #2575e7 #1c6fe2 #2677e7;background-color:#388bff;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAMAAACuX0YVAAAABlBMVEVnpv85i/9PO5r4AAAAD0lEQVR42gEEAPv/AAAAAQAFAAIros7PAAAAAElFTkSuQmCC);background-repeat:repeat-x;box-shadow:1px 1px 1px rgba(0,0,0,0.4);-webkit-box-shadow:1px 1px 1px rgba(0,0,0,0.4);-moz-box-shadow:1px 1px 1px rgba(0,0,0,0.4);-o-box-shadow:1px 1px 1px rgba(0,0,0,0.4)}.c-btn-primary:active{border-color:#178ee3 #1784d0 #177bbf #1780ca;background-color:#388bff;background-image:none;-moz-box-shadow:inset 1px 1px 1px rgba(0,0,0,0.15);-o-box-shadow:inset 1px 1px 1px rgba(0,0,0,0.15);-ms-box-shadow:inset 1px 1px 1px rgba(0,0,0,0.15);-webkit-box-shadow:inset 1px 1px 1px rgba(0,0,0,0.15)}.c-btn .c-icon{float:left}#user,#user_center{z-index:2}.ws-tips{position:absolute;right:10px;top:54px;width:250px;height:78px;background:#fff;border:1px solid #e3e3e3;white-space:nowrap;z-index:1;border-bottom-color:#e0e0e0;border-right-color:#ececec;box-shadow:1px 2px 1px rgba(0,0,0,0.072);-webkit-box-shadow:0 2px 2px rgba(0,0,0,0.072);-moz-box-shadow:1px 2px 1px rgba(0,0,0,0.072);-o-box-shadow:0 2px 2px rgba(0,0,0,0.072)}.ws-tips img{vertical-align:middle;width:56px;height:56px;position:absolute;left:10px;top:10px}.ws-d-info{text-align:center;width:144px;height:46px;position:absolute;left:76px;top:15px}.ws-d-label{font-size:14px;font-family:'宋体';color:#666}.ws-d-label span{font-family:arial}#ws-btn{position:absolute;right:8px;top:8px;background:url('http://s1.bdstatic.com/r/www/cache/static/global/img/wsCloseBtn2_4a84c812.png') no-repeat;width:9px;height:9px}#ws-btn:focus{outline:0}.ws-d-info a{margin-top:6px;font:bold 12px/24px "宋体"}</style><script>setTimeout(function(){var s = document.createElement("script");s.charset="utf-8";s.src="http://s1.bdstatic.com/r/www/cache/static/global/js/popup_a3186328.js";document.body.appendChild(s);},0);</script></html><script>(function(){var C=G("lm").getElementsByTagName("A");for(var B=0,A=C.length;B<A;B++){var D=C[B];addEV(D,"mousedown",(function(E,F){return function(){ns_c({fm:"behs",tab:"bdlnk",p1:F+1,title:E.innerHTML,url:E.href})}})(D,B))}})();</script><script>(function(f){var b=(f.document.getElementById("lm").getElementsByTagName("a").length)?f.document.getElementById("lm").getElementsByTagName("a"):f.document.getElementById("s_wl").getElementsByTagName("a");var d=(b&&b[0]&&b[0].getAttribute("data-linkid"))?parseInt(b[0].getAttribute("data-linkid")):0;if(d){var e=new Date().getTime();var a=f.document.cookie.match(new RegExp("(^| )H_PS_LC=([^;]*)_([^;]*)(;|$)"));var c=(a&&a[3]&&a[3]==d)?parseInt(f.document.cookie.match(new RegExp("(^| )H_PS_LC=([^;]*)(;|$)"))[2]):0;c++;f.document.cookie="H_PS_LC="+c+"_"+d+";expires="+new Date(e+2592000000).toGMTString();if(c<16){baidu.dom.setStyle(b[0],"visibility","visible");baidu.on(b[0],"mousedown",function(){ns_c({fm:"behs",tab:"linkc",linkid:d,count:c})})}}})(window);</script>
+[INFO] controle.RequestAreaDropAction.dragEnter(RequestAreaDropAction.java:15) [AWT-EventQueue-0]
+dragEnter事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:39) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.dragEnter(RequestAreaDropAction.java:15) [AWT-EventQueue-0]
+dragEnter事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:39) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.dragEnter(RequestAreaDropAction.java:15) [AWT-EventQueue-0]
+dragEnter事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragExit(RequestAreaDropAction.java:33) [AWT-EventQueue-0]
+dragExit事件
+[INFO] controle.RequestAreaDropAction.dragEnter(RequestAreaDropAction.java:15) [AWT-EventQueue-0]
+dragEnter事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:39) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.dragEnter(RequestAreaDropAction.java:15) [AWT-EventQueue-0]
+dragEnter事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:39) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.dragEnter(RequestAreaDropAction.java:15) [AWT-EventQueue-0]
+dragEnter事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:39) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.dragEnter(RequestAreaDropAction.java:15) [AWT-EventQueue-0]
+dragEnter事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragOver(RequestAreaDropAction.java:21) [AWT-EventQueue-0]
+dragOver事件
+[INFO] controle.RequestAreaDropAction.dragExit(RequestAreaDropAction.java:33) [AWT-EventQueue-0]
+dragExit事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:13) [AWT-EventQueue-0]
+drop事件
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+567
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+886
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+58
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+32
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1250
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+702
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+13
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+10
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+13
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+10
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+503
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1194
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1469
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+886
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1462
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+32
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+948
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1461
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+32
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+32
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+32
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+48
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+48
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+48
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+48
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+48
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+54
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+53
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+51
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+57
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+52
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+51
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+49
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+32
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+40
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+49
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+54
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+95
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+48
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+50
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+65533
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+41
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+13
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+10
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+13
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+10
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ȷ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+Ͷ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+:
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+Ӣ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ʾ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+Ƿ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+Ҫ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ֽ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+Ͷ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ֶ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+δ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ֵ
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+6
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+5
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+3
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+9
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+4
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+3
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+(
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+6
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+_
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+2
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+�
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+)
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+确
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+认
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+投
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+保
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+单
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+号
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+:
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+仍
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+有
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+英
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+文
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+提
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+示
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+对
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+于
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+是
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+否
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+需
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+要
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+纸
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+质
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+投
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+保
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+单
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+字
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+段
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+如
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+何
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+传
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+值
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+保
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+单
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+号
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+6
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+5
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+3
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+9
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+4
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+3
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+ 
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+(
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+1
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+6
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+_
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+0
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+2
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+报
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+文
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+)
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+[INFO] controle.RequestAreaDropAction.drop(RequestAreaDropAction.java:32) [AWT-EventQueue-0]
+
+
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:34) [AWT-EventQueue-0]
+准备发送数据
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:47) [AWT-EventQueue-0]
+发送数据{"FORMLSRepay":[{"repayType":"1","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","remark1":"001","IDNo":"","holderType":"0","cardType":"0","FLAG":"","remark2":"","holderName":"刘海口","cardTypeName":"","accName":"1","cardTypeOther":"3","appentRela":"","bankAccNo":"3691234","IDTypeOther":"","IDType":""}],"sugTOEForm":[{"remark9":"","remark8":"","remark5":"","prtNo":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","remark4":"","remark7":"","remark6":"","modifyDate":"","remark1":"","makeTime":"","remark3":"","operator":"","remark2":"","makeDate":"","contNo":"b8ae7165-4815-4ff5-9732-bda2521f708b","EFormNo":"00000029789201092","modifyTime":"","suggestNo":"00000029805501092"}],"FORMLSpol":[{"insuredBirthday":"1986-12-16","endDate":"","signDate":"","floatRate":0,"payEndYear":10,"saleChnl":"I","sumPrem":0,"autoPayFlag":"","premToAmnt":"","liveTimes":0,"mainPolNo":"f13ba589-4276-4f9d-86f7-f9a2c432bf3e","prtNo":"","bonusMan":"","standbyFlag3":"","agentCode":"","standbyFlag2":"","standbyFlag1":"","bonusGetMode":"","polState":"","signCom":"","signTime":"","makeDate":"2013-12-17","firstPayDate":"","CValiDate":"","lastRegetDate":"","agentGroup":"","prem":4087,"agentType":"M","UWTime":"","years":79,"contType":"","rnewFlag":0,"expiryFlag":"","grpPolNo":"123456","UWCode":"","insuredName":"刘海口","kindCode":"","subFlag":"M","standPrem":4087,"grpContNo":"123456","approveDate":"","riskVersion":"","lastGetDate":"","claimTimes":0,"acciEndDate":"","occupationType":"01010","approveCode":"","stopFlag":"","makeTime":"22:08:54","operator":"1430100052","premRate":0,"payMode":"","leavingMoney":0,"polTypeFlag":"S","agentGetFlag":"","mult":0,"masterPolNo":"","remark":"","endorseTimes":0,"deadGetMode":"","appFlag":"","polNo":"f13ba589-4276-4f9d-86f7-f9a2c432bf3e","modifyDate":"2013-12-17","liveGetMode":"","getYear":79,"UWDate":"","insuYearFlag":"A","amnt":100000,"healthCheckFlag":"","lastRevDate":"","getStartDate":"","bnfFlag":"","manageFeeRate":0,"modifyTime":"22:09:22","riskAmnt":0,"acciYearFlag":"","manageCom":"86","deadFlag":"","getYearFlag":"","approveFlag":"","insuYear":106,"riskCode":"118102","payYears":10,"payEndDate":"","acciYear":0,"insuredPeoples":0,"polApplyDate":"","appntNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","approveTime":"","insuredNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","UWFlag":"","specifyValiDate":"","payEndYearFlag":"Y","insuredSex":"1","reinsureFlag":"","payLocation":"","lastLoanDate":"","getStartType":"","agentPayFlag":"","appntName":"刘海口","lastEdorDate":"","contNo":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","impartFlag":"","renewCount":0,"proposalNo":"","insuredAppAge":27,"agentCom":"","paytoDate":"","agentCode1":"","interestDifFlag":"","payIntv":12,"smokeFlag":"","handler":""},{"insuredBirthday":"1986-12-16","endDate":"","signDate":"","floatRate":0,"payEndYear":1,"saleChnl":"I","sumPrem":0,"autoPayFlag":"","premToAmnt":"","liveTimes":0,"mainPolNo":"f13ba589-4276-4f9d-86f7-f9a2c432bf3e","prtNo":"","bonusMan":"","standbyFlag3":"","agentCode":"","standbyFlag2":"","standbyFlag1":"","bonusGetMode":"","polState":"","signCom":"","signTime":"","makeDate":"2013-12-17","firstPayDate":"","CValiDate":"","lastRegetDate":"","agentGroup":"","prem":100,"agentType":"M","UWTime":"","years":1,"contType":"","rnewFlag":0,"expiryFlag":"","grpPolNo":"123456","UWCode":"","insuredName":"刘海口","kindCode":"","subFlag":"S","standPrem":100,"grpContNo":"123456","approveDate":"","riskVersion":"","lastGetDate":"","claimTimes":0,"acciEndDate":"","occupationType":"01010","approveCode":"","stopFlag":"","makeTime":"22:09:22","operator":"1430100052","premRate":0,"payMode":"","leavingMoney":0,"polTypeFlag":"S","agentGetFlag":"","mult":0,"masterPolNo":"","remark":"","endorseTimes":0,"deadGetMode":"","appFlag":"","polNo":"34ef24ec-ca31-4281-9fe8-ade10031ca90","modifyDate":"2013-12-17","liveGetMode":"","getYear":1,"UWDate":"","insuYearFlag":"Y","amnt":50000,"healthCheckFlag":"","lastRevDate":"","getStartDate":"","bnfFlag":"","manageFeeRate":0,"modifyTime":"22:09:22","riskAmnt":0,"acciYearFlag":"","manageCom":"86","deadFlag":"","getYearFlag":"","approveFlag":"","insuYear":1,"riskCode":"129101","payYears":1,"payEndDate":"","acciYear":0,"insuredPeoples":0,"polApplyDate":"","appntNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","approveTime":"","insuredNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","UWFlag":"","specifyValiDate":"","payEndYearFlag":"Y","insuredSex":"1","reinsureFlag":"","payLocation":"","lastLoanDate":"","getStartType":"","agentPayFlag":"","appntName":"刘海口","lastEdorDate":"","contNo":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","impartFlag":"","renewCount":0,"proposalNo":"","insuredAppAge":27,"agentCom":"","paytoDate":"","agentCode1":"","interestDifFlag":"","payIntv":12,"smokeFlag":"","handler":""},{"insuredBirthday":"1986-12-16","endDate":"","signDate":"","floatRate":0,"payEndYear":1,"saleChnl":"I","sumPrem":0,"autoPayFlag":"","premToAmnt":"","liveTimes":0,"mainPolNo":"f13ba589-4276-4f9d-86f7-f9a2c432bf3e","prtNo":"","bonusMan":"","standbyFlag3":"","agentCode":"","standbyFlag2":"","standbyFlag1":"","bonusGetMode":"","polState":"","signCom":"","signTime":"","makeDate":"2013-12-17","firstPayDate":"","CValiDate":"","lastRegetDate":"","agentGroup":"","prem":213,"agentType":"M","UWTime":"","years":1,"contType":"","rnewFlag":0,"expiryFlag":"","grpPolNo":"123456","UWCode":"","insuredName":"刘海口","kindCode":"","subFlag":"S","standPrem":213,"grpContNo":"123456","approveDate":"","riskVersion":"","lastGetDate":"","claimTimes":0,"acciEndDate":"","occupationType":"01010","approveCode":"","stopFlag":"","makeTime":"22:09:22","operator":"1430100052","premRate":0,"payMode":"","leavingMoney":0,"polTypeFlag":"S","agentGetFlag":"","mult":0,"masterPolNo":"","remark":"","endorseTimes":0,"deadGetMode":"","appFlag":"","polNo":"de2b2bb7-5b78-4863-b235-4c9e960298a2","modifyDate":"2013-12-17","liveGetMode":"","getYear":1,"UWDate":"","insuYearFlag":"Y","amnt":10000,"healthCheckFlag":"","lastRevDate":"","getStartDate":"","bnfFlag":"","manageFeeRate":0,"modifyTime":"22:09:22","riskAmnt":0,"acciYearFlag":"","manageCom":"86","deadFlag":"","getYearFlag":"","approveFlag":"","insuYear":1,"riskCode":"128204","payYears":1,"payEndDate":"","acciYear":0,"insuredPeoples":0,"polApplyDate":"","appntNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","approveTime":"","insuredNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","UWFlag":"","specifyValiDate":"","payEndYearFlag":"Y","insuredSex":"1","reinsureFlag":"","payLocation":"","lastLoanDate":"","getStartType":"","agentPayFlag":"","appntName":"刘海口","lastEdorDate":"","contNo":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","impartFlag":"","renewCount":0,"proposalNo":"","insuredAppAge":27,"agentCom":"","paytoDate":"","agentCode1":"","interestDifFlag":"","payIntv":12,"smokeFlag":"","handler":""}],"FORMLSCont":[{"despseType":"","appFlag":"","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","moneny":"","modifyDate":"2013-12-17","password":"","UWDate":"","submitFlag":"","saleChnl":"","xubaoperm":"00","paytype":"","submitLog":"","modifyTime":"22:12:30","inputDate":"","getPolDate":"","approveFlag":"","inputTime":"","submitDate":"","prtNo":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","xubao":"01","agentCode":"","payTypes":"01","getrate":"","polApplyDate":"","makeDate":"2013-12-17","appntNo":"","antFirst":"","UWOperator":"","UWTime":"","approveTime":"","insuredNo":"","getMonenyType":"","contType":"","getPolTime":"","UWFlag":"01","submitTime":"","state":"","getHLtype":"","executeCom":"","xpaytype":"","interceder":"","appntName":"","approveDate":"","approveCode":"","makeTime":"21:58:54","operator":"1430100052","inputOperator":"","agentCom":"","customGetPolDate":"","isInsure":"00","antAge":"","handler":""}],"FORMLSInsured":[{"position":"","birthday":"1986-12-16","sex":"1","pluralityType":"","IDNo":"430101198612160805","wherepay":"","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","IDEndDate":"Long","workPlace":"","homeTelephone":"0731-25874123","name":"刘海口","age":"27","grade":"","appellation":"","isvaild":"","work":"内测","comTelephone":"0731-88236514-2587","stature":"","appntrela":"","respotType":"","nativePlace":"37","pluralityCode":"","bakup5":"","yearpay":"","occupationCode":"01010","bakup3":"","bakup4":"","marriage":"1","homeaddre":"430000-430100-430101-长沙市好好干古古怪怪","bakup1":"","bakup2":"","operator":"1430100052","homeCode":"430001","degree":"","comAddress":"无","email":"185972836@qq.com","address":"","appntNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","IDType":"1","addressCode":"","avoirdupois":"","insuredNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","telephone":"","IDTypeOther":"","mobile":"13958236321"}],"userCode":"1430100052","FORMState":[{"prtInsureNO":"","APPMOBILE":"","prtState":"0","remark":"","APPDATE":"","prtNo":"","VALIDDATE":"","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","APPADDRESS":"","remark1":"2013-12-17","prtMessge":"","payNo":"","POLICYTYPE":"","ISDNAME":"","PRDCODE":"","PLYBACKDATE":"","APPNAME":"","prtdate":""}],"FORMLSBenefi":[{"manageCom":"0","benefGrade":"","nativePlace":"37","IDNo":"69844269","benefNo":"165bcb52-d69e-4fc3-9055-9e6e7de9f19f","benefAge":"","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","modifyDate":"","makeTime":"","benfit":"1","IDEndDate":"Long","operator":"1430100052","beneflation":"","nationality":"","makeDate":"","benfitRate":"50","IDType":"9","benefrela":"3","benefName":"续航","addressCode":"","modifyTime":"","IDTypeOther":"出生证","benefype":"2","benefBirthday":"1997-02-01","benefSex":"0"},{"manageCom":"0","benefGrade":"","nativePlace":"37","IDNo":"65225874","benefNo":"4cfada79-6083-4580-b98f-22b36ec5efc3","benefAge":"","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","modifyDate":"","makeTime":"","benfit":"1","IDEndDate":"Long","operator":"1430100052","beneflation":"","nationality":"","makeDate":"","benfitRate":"50","IDType":"9","benefrela":"3","benefName":"张三李四","addressCode":"","modifyTime":"","IDTypeOther":"出生证","benefype":"2","benefBirthday":"1990-02-01","benefSex":"0"}],"prtNo":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","method":"001","FORMLSAppnt":[{"appntBirthday":"1986-12-16","pluralityType":"","appntGrade":"","IDNo":"430101198612160805","wherepay":"","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","IDEndDate":"Long","workPlace":"","homeTelephone":"0731-25874123","appntName":"刘海口","age":"27","appellation":"","isvaild":"","work":"内测","comTelephone":"0731-88236514-2587","stature":"","appntrela":"1","respotType":"","nativePlace":"37","pluralityCode":"","bakup5":"","yearpay":"","occupationCode":"01010","bakup3":"","bakup4":"","marriage":"1","homeaddre":"430000-430100-430101-长沙市好好干古古怪怪","bakup1":"N","bakup2":"","operator":"1430100052","homeCode":"430001","degree":"","comAddress":"无","email":"185972836@qq.com","address":"430000-430100-430101-长沙市好好干古古怪怪","appntNo":"8858ad86-93a4-47cc-afc5-abbcf2817497","IDType":"1","addressCode":"430001","avoirdupois":"","telephone":"","IDTypeOther":"","appntSex":"1","mobile":"13958236321"}],"FORMLSHealth":[{"subjectID":"100","remark":"1","appntNo":"32","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0100","insuredNo":"L"},{"subjectID":"125","remark":"1","appntNo":"13","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"125","insuredNo":"L"},{"subjectID":"127","remark":"1","appntNo":"14","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"127","insuredNo":"L"},{"subjectID":"129","remark":"1","appntNo":"15","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"129","insuredNo":"L"},{"subjectID":"131","remark":"1","appntNo":"16","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"131","insuredNo":"L"},{"subjectID":"24","remark":"1","appntNo":"1","answer":"170","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0401","insuredNo":"S"},{"subjectID":"25","remark":"1","appntNo":"2","answer":"56","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0402","insuredNo":"S"},{"subjectID":"26","remark":"1","appntNo":"3","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"026","insuredNo":"L"},{"subjectID":"28","remark":"1","appntNo":"4","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"028","insuredNo":"L"},{"subjectID":"29","remark":"1","appntNo":"6","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0029","insuredNo":"L"},{"subjectID":"31","remark":"1","appntNo":"7","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0031","insuredNo":"L"},{"subjectID":"33","remark":"1","appntNo":"8","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0033","insuredNo":"L"},{"subjectID":"35","remark":"1","appntNo":"9","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0035","insuredNo":"L"},{"subjectID":"37","remark":"1","appntNo":"10","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0037","insuredNo":"L"},{"subjectID":"39","remark":"1","appntNo":"11","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0039","insuredNo":"L"},{"subjectID":"40","remark":"1","appntNo":"17","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0040","insuredNo":"L"},{"subjectID":"41","remark":"1","appntNo":"18","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0041","insuredNo":"L"},{"subjectID":"43","remark":"1","appntNo":"19","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0043","insuredNo":"L"},{"subjectID":"44","remark":"1","appntNo":"20","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0044","insuredNo":"S"},{"subjectID":"45","remark":"1","appntNo":"22","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0045","insuredNo":"L"},{"subjectID":"46","remark":"1","appntNo":"23","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0046","insuredNo":"S"},{"subjectID":"47","remark":"1","appntNo":"26","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0047","insuredNo":"L"},{"subjectID":"48","remark":"1","appntNo":"27","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0048","insuredNo":"L"},{"subjectID":"49","remark":"1","appntNo":"28","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0049","insuredNo":"L"},{"subjectID":"50","remark":"1","appntNo":"30","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0051","insuredNo":"S"},{"subjectID":"51","remark":"1","appntNo":"29","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0050","insuredNo":"S"},{"subjectID":"52","remark":"1","appntNo":"31","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0052","insuredNo":"S"},{"subjectID":"54","remark":"1","appntNo":"33","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0054","insuredNo":"L"},{"subjectID":"57","remark":"1","appntNo":"5","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"057","insuredNo":"L"},{"subjectID":"58","remark":"1","appntNo":"34","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0058","insuredNo":"L"},{"subjectID":"75","remark":"1","appntNo":"35","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"075","insuredNo":"S"},{"subjectID":"84","remark":"1","appntNo":"12","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0084","insuredNo":"L"},{"subjectID":"96","remark":"1","appntNo":"21","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0096","insuredNo":"S"},{"subjectID":"97","remark":"1","appntNo":"24","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0097","insuredNo":"S"},{"subjectID":"98","remark":"1","appntNo":"25","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"1","remark1":"0098","insuredNo":"S"},{"subjectID":"110","remark":"1","appntNo":"39","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"110","insuredNo":"S"},{"subjectID":"110","remark":"1","appntNo":"39","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"110","insuredNo":"S"},{"subjectID":"111","remark":"1","appntNo":"45","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"111","insuredNo":"S"},{"subjectID":"111","remark":"1","appntNo":"45","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"111","insuredNo":"S"},{"subjectID":"113","remark":"1","appntNo":"46","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"113","insuredNo":"S"},{"subjectID":"113","remark":"1","appntNo":"46","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"113","insuredNo":"S"},{"subjectID":"114","remark":"1","appntNo":"47","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"114","insuredNo":"S"},{"subjectID":"114","remark":"1","appntNo":"47","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"114","insuredNo":"S"},{"subjectID":"115","remark":"1","appntNo":"48","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"115","insuredNo":"S"},{"subjectID":"115","remark":"1","appntNo":"48","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"115","insuredNo":"S"},{"subjectID":"121","remark":"1","appntNo":"54","answer":"0","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0121","insuredNo":"S"},{"subjectID":"122","remark":"1","appntNo":"55","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0122","insuredNo":"S"},{"subjectID":"123","remark":"1","appntNo":"60","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0123","insuredNo":"S"},{"subjectID":"61","remark":"1","appntNo":"36","answer":"70","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0061","insuredNo":"S"},{"subjectID":"61","remark":"1","appntNo":"36","answer":"70","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0061","insuredNo":"S"},{"subjectID":"62","remark":"1","appntNo":"37","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0062","insuredNo":"L"},{"subjectID":"62","remark":"1","appntNo":"37","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0062","insuredNo":"L"},{"subjectID":"64","remark":"1","appntNo":"38","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0064","insuredNo":"L"},{"subjectID":"64","remark":"1","appntNo":"38","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0064","insuredNo":"L"},{"subjectID":"66","remark":"1","appntNo":"40","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0066","insuredNo":"L"},{"subjectID":"66","remark":"1","appntNo":"40","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0066","insuredNo":"L"},{"subjectID":"67","remark":"1","appntNo":"41","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0067","insuredNo":"L"},{"subjectID":"67","remark":"1","appntNo":"41","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0067","insuredNo":"L"},{"subjectID":"69","remark":"1","appntNo":"42","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0069","insuredNo":"L"},{"subjectID":"69","remark":"1","appntNo":"42","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0069","insuredNo":"L"},{"subjectID":"70","remark":"1","appntNo":"43","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0070","insuredNo":"L"},{"subjectID":"70","remark":"1","appntNo":"43","answer":"N","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0070","insuredNo":"L"},{"subjectID":"71","remark":"1","appntNo":"44","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0071","insuredNo":"S"},{"subjectID":"71","remark":"1","appntNo":"44","answer":" ","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0071","insuredNo":"S"},{"subjectID":"72","remark":"1","appntNo":"52","answer":"0","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0072","insuredNo":"S"},{"subjectID":"73","remark":"1","appntNo":"49","answer":"0","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0073","insuredNo":"S"},{"subjectID":"74","remark":"1","appntNo":"50","answer":"1","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0074","insuredNo":"S"},{"subjectID":"76","remark":"1","appntNo":"51","answer":"0","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0076","insuredNo":"S"},{"subjectID":"77","remark":"1","appntNo":"53","answer":"0","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"1","healthType":"2","remark1":"0077","insuredNo":"S"},{"subjectID":"78","remark":"1","appntNo":"56","answer":"1","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0078","insuredNo":"S"},{"subjectID":"79","remark":"1","appntNo":"57","answer":"1","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0079","insuredNo":"S"},{"subjectID":"80","remark":"1","appntNo":"58","answer":"0","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0080","insuredNo":"S"},{"subjectID":"81","remark":"1","appntNo":"59","answer":"0","prtNum":"78151cbb-06c8-45be-a3b0-bd49fc6d565b","peopleType":"0","healthType":"2","remark1":"0081","insuredNo":"S"}]}
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:62) [AWT-EventQueue-0]
+接收到的数据:{"flag":"0","info":"服务器发生异常!"}
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:34) [AWT-EventQueue-0]
+准备发送数据
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:47) [AWT-EventQueue-0]
+发送数据
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:62) [AWT-EventQueue-0]
+接收到的数据:{"PrtNo":"","Success":"false","ErrorMsg":"鍙戦�鏁版嵁寮傚父,璇烽噸璇�"}
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:34) [AWT-EventQueue-0]
+准备发送数据
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:47) [AWT-EventQueue-0]
+发送数据
+[INFO] controle.SendBtnAction.actionPerformed(SendBtnAction.java:62) [AWT-EventQueue-0]
+接收到的数据:{"PrtNo":"","Success":"false","ErrorMsg":"发送数据异常,请重试!"}
